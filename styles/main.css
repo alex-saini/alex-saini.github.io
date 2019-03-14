@@ -1,0 +1,100 @@
+h1 {
+    text-align: center;
+    font-family: Source Code Pro;
+    font-size: 45px;
+    padding: 25px 0px 20px 0px;
+}
+
+h2 {
+    text-align: center;
+    font-family: Source Code Pro;
+    padding-bottom: 30px;
+    padding-right: 100px;
+    text-transform: uppercase;
+    font-size: 300%;
+    color: darkblue;
+}
+
+.nav-bar {
+    text-align: center;
+    padding-bottom: 30px;
+    padding-right: 130px;
+}
+
+
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 33px;
+    padding-right: 30px;
+
+}
+
+nav a {
+    color: black;
+    text-transform: uppercase;
+}
+
+
+.img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+}
+
+.footer-text {
+    text-align: center;
+    font-family: Source Code Pro;
+    padding-top: 5px;
+    padding-right: 130px;
+}
+
+
+section {
+    padding-top: 50px;
+    padding-right: 70px;
+    background-image: url(images/wellington_new.jpeg);
+}
+
+section ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    padding-bottom: 450px;
+}
+ section a {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+ }
+
+ .technical {
+     text-align: center;
+     color: darkblue;
+ }
+ 
+ .cultural {
+     text-align: center;
+     color: darkblue;
+ }
+
+ h3 {
+    font-family: Source Code Pro;
+    padding-bottom: 20px;
+    font-size: 30px;
+
+ }
+
+p {
+    text-align: left;
+    padding-right: 400px;
+}
+
+.center {
+    text-align: center;
+}
+
+.text {
+    font-size: 20px;
+}
